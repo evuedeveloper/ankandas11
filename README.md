@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankan Das</h1>
 <h3 align="center">A Tech Enthusiast learning Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankandas11&label=Profile%20views&color=0e75b6&style=flat" alt="ankandas11" /> </p>
-
 - 📫 How to reach me **ankandas194@gmail.com**
 
 - ⚡ Fun fact **I love to resonate with tech stacks and problem solving altogether**
@@ -17,7 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankandas11&show_icons=true&locale=en&layout=compact" alt="ankandas11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankandas11&show_icons=true&locale=en" alt="ankandas11" /></p>
-
 
 <!---
 ankandas11/ankandas11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
